@@ -1,0 +1,6 @@
+{
+  "name": "ENSO 3D: El Niño & La Niña Climate Explorer",
+  "description": "Interactive 3D climate visualizations, equatorial Pacific thermocline dynamics, Walker circulation models, and historical ENSO data analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
